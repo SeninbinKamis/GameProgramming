@@ -56,7 +56,14 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Latihan1.cs" />
+    <Compile Include="Assets\Latihan1.cs" />
+    <Compile Include="Assets\Latihan4\Karakter.cs" />
+    <Compile Include="Assets\Latihan4\Latihan4.cs" />
+    <Compile Include="Assets\Latihan5\Manusia.cs" />
+    <Compile Include="Assets\Latihan5\Prajurit.cs" />
+    <Compile Include="Assets\Latihan6.cs" />
+    <Compile Include="Assets\Latihan2.cs" />
+    <Compile Include="Assets\Latihan3.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
