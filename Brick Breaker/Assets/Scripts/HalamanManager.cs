@@ -32,9 +32,15 @@ public class HalamanManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
-        
-    }
+        if (Input.GetKeyUp(KeyCode.Escape))
+        {
+            
+            
+                Application.Quit();
+            
+
+        }
+        }
     public void MulaiPermainan()
     {
         BallController.health = 0;

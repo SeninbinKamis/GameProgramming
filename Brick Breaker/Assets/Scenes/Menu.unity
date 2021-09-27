@@ -1092,6 +1092,8 @@ MonoBehaviour:
   MenuPanel: {fileID: 757051262}
   SettingsPanel: {fileID: 183028169}
   audioMixer: {fileID: 24100000, guid: 1c6fdf2c1f8418342b86b543192130d6, type: 2}
+  index: 0
+  level: 0
 --- !u!1 &1455249070
 GameObject:
   m_ObjectHideFlags: 0
@@ -1354,9 +1356,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
+  m_ScaleFactor: 0.3
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
