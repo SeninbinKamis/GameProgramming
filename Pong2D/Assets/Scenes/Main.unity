@@ -1713,7 +1713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   kecepatan: 7
-  axis: Vertical2
+  axis: Vertical
   batasAtas: 3.1
   batasBawah: -3.1
 --- !u!61 &1143547385
